@@ -1,0 +1,18 @@
+{
+  "/wp-json/wp/v2/posts(.*)": "/posts$1",
+  "/wp-json/wp/v2/pages(.*)": "/pages$1",
+  "/wp-json/swg/v1/agenda(.*)": "/agenda$1",
+  "/wp-json/swg/v1/bestuur(.*)": "/board$1",
+  "/wp-json/swg/v1/sponsors(.*)": "/sponsors$1",
+  "/wp-json/swg/v1/testimonials(.*)": "/testimonials$1",
+  "/wp-json/gf/v2/forms/1/submissions(.*)": "/registrations$1",
+  "/wp-json/gf/v2/forms/2/submissions(.*)": "/contact_submissions$1",
+  "/wp-json/gf/v2/forms/3/submissions(.*)": "/donation_submissions$1",
+  "/wp-json/jwt-auth/v1/token(.*)": "/auth_tokens$1",
+  "/wp-json/swg/v1/account/register(.*)": "/account_requests$1",
+  "/wp-json/swg/v1/account/reset-password(.*)": "/password_resets$1",
+  "/wp-json/swg/v1/mijn/inschrijvingen(.*)": "/mijn_inschrijvingen$1",
+  "/wp-json/swg/v1/mijn/vragen(.*)": "/mijn_vragen$1",
+  "/wp-json/swg/v1/mijn/profiel(.*)": "/mijn_profiel$1",
+  "/wp-json/acf/v3/options/options": "/site_options/1"
+}

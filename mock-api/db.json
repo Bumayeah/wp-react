@@ -1,0 +1,949 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "slug": "nieuws-seizoen-2026",
+      "title": {
+        "rendered": "Seizoen 2026 geopend!"
+      },
+      "excerpt": {
+        "rendered": "We zijn verheugd het nieuwe skiseizoen aan te kondigen met twee geweldige bestemmingen."
+      },
+      "content": {
+        "rendered": "<p>We zijn verheugd het nieuwe skiseizoen aan te kondigen met twee geweldige bestemmingen: Italië en Oostenrijk. Schrijf je snel in, want de plaatsen zijn beperkt!</p>"
+      },
+      "date": "2026-01-12T10:00:00",
+      "featured_media_url": "/images/blog/post1.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "nieuwe-materialen-2025",
+      "title": {
+        "rendered": "Nieuw aangepast skimateriaal voor 2026"
+      },
+      "excerpt": {
+        "rendered": "SWG heeft geïnvesteerd in nieuw aangepast skimateriaal voor het komende seizoen."
+      },
+      "content": {
+        "rendered": "<p>Dankzij de genereuze steun van onze sponsors hebben wij kunnen investeren in nieuw aangepast skimateriaal. Dit materiaal is beschikbaar voor alle deelnemers.</p>"
+      },
+      "date": "2025-11-20T09:00:00",
+      "featured_media_url": "/images/blog/post2.jpg"
+    },
+    {
+      "id": 3,
+      "slug": "terugblik-italie-2025",
+      "title": {
+        "rendered": "Terugblik: een geweldige week in Italië"
+      },
+      "excerpt": {
+        "rendered": "De skiweek Italië 2025 was weer een groot succes. Lees het verslag hier."
+      },
+      "content": {
+        "rendered": "<p>Wat een week was het! Met een groep van 24 deelnemers hebben we een onvergetelijke tijd gehad op de piste in Italië. De zon scheen, de sneeuw was perfect en de sfeer was geweldig.</p>"
+      },
+      "date": "2025-03-28T14:00:00",
+      "featured_media_url": "/images/blog/post3.jpg"
+    }
+  ],
+  "pages": [
+    {
+      "id": 10,
+      "slug": "home",
+      "title": {
+        "rendered": "Home"
+      },
+      "content": {
+        "rendered": "<p>SWG Nederland organiseert groepsreizen op de piste voor mensen met én zonder beperking. Van jong tot oud, alleenstaand of als gezin — iedereen is welkom.</p>"
+      },
+      "acf": {
+        "hero_tagline": "Skiën voor iedereen",
+        "hero_headline": "Skiën met een beperking? Dat kan!",
+        "hero_description": "SWG Nederland organiseert groepsreizen op de piste voor mensen met én zonder beperking. Met aangepast materiaal en deskundige begeleiding skiët iedereen op zijn eigen niveau.",
+        "stats": [
+          {
+            "value": "15+",
+            "label": "Jaar ervaring"
+          },
+          {
+            "value": "500+",
+            "label": "Deelnemers begeleid"
+          },
+          {
+            "value": "20+",
+            "label": "Gecertificeerde begeleiders"
+          },
+          {
+            "value": "4",
+            "label": "Skigebieden per jaar"
+          }
+        ],
+        "mission_eyebrow": "Onze missie",
+        "mission_title": "Skiën zou voor iedereen bereikbaar moeten zijn",
+        "mission_intro": "SWG Nederland is een vrijwilligersorganisatie die zich inzet voor inclusief skiën. We geloven dat een beperking geen belemmering hoeft te zijn voor het avontuur op de piste.",
+        "mission_body": "Met aangepast materiaal zoals sit-ski's en monoski's, en begeleiders die speciaal zijn opgeleid voor mensen met een beperking, zorgen we dat iedere deelnemer op zijn eigen manier kan genieten van de sneeuw.",
+        "mission_highlights": [
+          "Professioneel en gecertificeerd materiaal voor elke beperking",
+          "Klein groepsverband met veel persoonlijke aandacht",
+          "Begeleiders en deelnemers skiën samen — gelijkwaardig"
+        ],
+        "founded_year_text": "Al 15 jaar actief",
+        "founded_year_detail": "Opgericht in 2009",
+        "why_swg_eyebrow": "Waarom SWG Nederland?",
+        "why_swg_title": "Skiën dat voor iedereen werkt",
+        "why_swg_description": "We combineren deskundige begeleiding, aangepast materiaal en het warme groepsgevoel van een echte skivakantie. Voor deelnemers én hun begeleiders.",
+        "why_swg_features": [
+          {
+            "title": "Inclusief skiën",
+            "description": "Mensen met en zonder beperking skiën samen in één groep. Niemand staat aan de kant."
+          },
+          {
+            "title": "Gecertificeerde begeleiding",
+            "description": "Onze instructeurs zijn speciaal opgeleid voor aangepast skiën en staan altijd naast je op de piste."
+          },
+          {
+            "title": "Aangepast materiaal",
+            "description": "Van sit-ski tot monoski: wij regelen het juiste materiaal voor elke beperking en elk vaardigheidsniveau."
+          },
+          {
+            "title": "Meer dan een skivakantie",
+            "description": "Een week vol avontuur, saamhorigheid en herinneringen voor het leven — voor deelnemers én begeleiders."
+          }
+        ],
+        "agenda_preview_eyebrow": "Aankomende reizen",
+        "agenda_preview_title": "Ski met ons mee",
+        "testimonials_eyebrow": "Ervaringen",
+        "testimonials_title": "Wat deelnemers zeggen",
+        "sponsors_eyebrow": "Mede mogelijk gemaakt door",
+        "sponsors_title": "Onze sponsors",
+        "cta_heading": "Klaar om mee te gaan?",
+        "cta_body": "Schrijf je in voor een van onze groepsreizen en maak een onvergetelijke week mee op de piste."
+      }
+    },
+    {
+      "id": 11,
+      "slug": "over-ons",
+      "title": {
+        "rendered": "Over ons"
+      },
+      "content": {
+        "rendered": "<p>Stichting Wintersport Gehandicapten Nederland (SWG) is in 1985 opgericht met als doel wintersport toegankelijk te maken voor mensen met een beperking.</p><p>We organiseren jaarlijks meerdere groepsreizen naar Italië en Oostenrijk, waarbij zowel mensen met als zonder beperking van harte welkom zijn.</p>"
+      },
+      "acf": {
+        "hero_eyebrow": "Wie zijn wij",
+        "hero_description": "SWG Nederland is een vrijwilligersorganisatie die groepsreizen op de piste organiseert voor mensen met én zonder beperking.",
+        "hero_image": "",
+        "show_gallery": true,
+        "gallery": [
+          { "src": "/images/trips/italie.jpg", "alt": "Skiweek Italië" },
+          { "src": "/images/trips/oostenrijk.jpg", "alt": "Skiweek Oostenrijk" },
+          { "src": "/images/blog/post1.jpg", "alt": "Seizoen opening" },
+          { "src": "/images/blog/post2.jpg", "alt": "Nieuw materiaal" },
+          { "src": "/images/blog/post3.jpg", "alt": "Terugblik Italië" },
+          { "src": "/images/pages/over-ons-1.jpg", "alt": "Vrijwilligers op de piste" }
+        ],
+        "show_cta": true,
+        "cta_heading": "Doe mee met SWG Nederland",
+        "cta_body": "Sluit je aan als deelnemer, begeleider of sponsor en maak het verschil.",
+        "text_block_1": {
+          "content": "<p>Onze stichting bestaat uit een groep enthousiaste vrijwilligers die het skiën toegankelijk willen maken voor iedereen. Met aangepast materiaal en deskundige begeleiding zorgen wij dat iedereen op zijn of haar eigen niveau kan genieten van de wintersport.</p>",
+          "image": "/images/pages/over-ons-1.jpg",
+          "image_alt": "Vrijwilligers van SWG op de piste"
+        },
+        "text_block_2": {
+          "content": "<p>Naast de reizen verhuren wij ook aangepast skimateriaal. Zo kun je ook buiten onze groepsreizen om genieten van de wintersport. Neem contact met ons op voor meer informatie.</p>",
+          "image": "/images/pages/over-ons-2.jpg",
+          "image_alt": "Aangepast skimateriaal van SWG"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "slug": "faq",
+      "title": {
+        "rendered": "Veelgestelde vragen"
+      },
+      "content": {
+        "rendered": ""
+      },
+      "acf": {
+        "hero_eyebrow": "Hulp nodig?",
+        "hero_description": "Antwoorden op de meest gestelde vragen over onze reizen, aanmelding en materiaal.",
+        "hero_image": "",
+        "faq_items": [
+          {
+            "question": "Voor wie zijn de reizen bedoeld?",
+            "answer": "Onze reizen zijn voor iedereen — mensen met én zonder beperking, van jong tot oud, alleenstaand of als gezin. Iedereen is welkom!"
+          },
+          {
+            "question": "Wat voor aangepast materiaal hebben jullie?",
+            "answer": "Wij beschikken over sit-ski's, monoski's, outriggers en ander aangepast materiaal. Neem contact op voor specifieke vragen over beschikbaarheid."
+          },
+          {
+            "question": "Hoe kan ik mij aanmelden voor een reis?",
+            "answer": "Aanmelden kan via onze website op de pagina van de gewenste reis. Vul het aanmeldformulier in en je ontvangt een bevestiging per e-mail."
+          },
+          {
+            "question": "Wat zijn de annuleringsvoorwaarden?",
+            "answer": "Annuleren is gratis tot 6 weken voor vertrek. Tussen 2 en 6 weken zijn er annuleringskosten van 70%. Binnen 2 weken is annuleren helaas niet meer mogelijk via de website — neem dan telefonisch contact met ons op."
+          },
+          {
+            "question": "Kan ik een begeleider meenemen?",
+            "answer": "Ja, begeleiders zijn van harte welkom. Zij schrijven zich in via hetzelfde aanmeldformulier en kiezen bij de vraag 'Rol' voor 'Begeleider'."
+          },
+          {
+            "question": "Zijn er speciale dieetwensen mogelijk?",
+            "answer": "Ja, bij het aanmelden kun je je dieetwensen opgeven. Wij doen ons best om hier rekening mee te houden."
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "slug": "steunen",
+      "title": {
+        "rendered": "Steun de SWG"
+      },
+      "content": {
+        "rendered": "<p>SWG Nederland draait volledig op vrijwilligers en de steun van sponsors en donateurs. Met jouw bijdrage maken wij het mogelijk dat mensen met een beperking kunnen genieten van de wintersport.</p>"
+      },
+      "acf": {
+        "hero_eyebrow": "Doe mee",
+        "hero_description": "SWG draait op vrijwilligers en de steun van sponsors en donateurs. Jouw bijdrage maakt het mogelijk.",
+        "hero_image": "",
+        "sponsors_eyebrow": "Mede mogelijk gemaakt door",
+        "sponsors_title": "Onze sponsors",
+        "sponsors_intro": "Zonder onze sponsors is het organiseren van deze reizen niet mogelijk. Wij zijn hen enorm dankbaar voor hun steun.",
+        "volunteer": {
+          "title": "Vrijwilliger worden",
+          "content": "<p>Ben jij sportief, sociaal en wil je je inzetten voor een geweldige groep mensen? Dan zijn wij op zoek naar jou! Als vrijwilliger help je mee op de piste, bij het transport of op de achtergrond.</p>",
+          "image": "/images/pages/steunen-vrijwilliger.jpg",
+          "image_alt": "Vrijwilligers op de piste"
+        },
+        "donation": {
+          "title": "Donateur worden",
+          "content": "<p>Met een donatie steun je direct de activiteiten van SWG Nederland. Elke bijdrage, groot of klein, helpt ons om de reizen betaalbaar te houden voor deelnemers met een beperking.</p>",
+          "image": "/images/pages/steunen-donatie.jpg",
+          "image_alt": "Deelnemers op de piste"
+        },
+        "sponsor": {
+          "title": "Sponsor worden",
+          "content": "<p>Als sponsor van SWG Nederland verbindt u uw naam aan een bijzondere stichting. Wij bieden verschillende sponsorpakketten aan, van logo op de website tot vermelding op onze kleding.</p><p><strong>Brons</strong> — €250/jaar: logo op website<br><strong>Zilver</strong> — €500/jaar: logo op website + kleding<br><strong>Goud</strong> — €1.000/jaar: logo prominent + kleding + vermelding nieuwsbrief</p>",
+          "image": "/images/pages/steunen-sponsor.jpg",
+          "image_alt": "SWG sponsors"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "slug": "av",
+      "title": {
+        "rendered": "Algemene voorwaarden"
+      },
+      "content": {
+        "rendered": "<p>Deze algemene voorwaarden zijn van toepassing op alle reizen georganiseerd door Stichting Wintersport Gehandicapten Nederland.</p><h2>Artikel 1 — Definities</h2><p>In deze voorwaarden wordt verstaan onder: SWG: Stichting Wintersport Gehandicapten Nederland; Deelnemer: de persoon die zich heeft ingeschreven voor een reis.</p><h2>Artikel 2 — Aanmelding</h2><p>Aanmelding geschiedt door het volledig invullen van het aanmeldformulier op de website. De aanmelding is definitief na ontvangst van de bevestiging per e-mail.</p>"
+      },
+      "acf": {
+        "show_cta": true
+      }
+    },
+    {
+      "id": 15,
+      "slug": "privacy",
+      "title": {
+        "rendered": "Privacyverklaring"
+      },
+      "content": {
+        "rendered": "<p>Stichting Wintersport Gehandicapten Nederland hecht veel waarde aan de bescherming van uw persoonsgegevens.</p><h2>Welke gegevens verzamelen wij?</h2><p>Wij verzamelen de gegevens die u zelf aan ons verstrekt via het aanmeldformulier: naam, e-mailadres, telefoonnummer, aard van de beperking en noodcontactgegevens.</p><h2>Waarvoor gebruiken wij uw gegevens?</h2><p>Uw gegevens worden uitsluitend gebruikt voor de organisatie van de reis waarvoor u zich heeft aangemeld.</p>"
+      },
+      "acf": {}
+    },
+    {
+      "id": 16,
+      "slug": "cookies",
+      "title": {
+        "rendered": "Cookieverklaring"
+      },
+      "content": {
+        "rendered": "<p>SWG Nederland gebruikt alleen functionele cookies en, na uw toestemming, analytische cookies van Google Analytics en cookies van YouTube voor het afspelen van video's.</p>"
+      },
+      "acf": {}
+    },
+    {
+      "id": 17,
+      "slug": "contact",
+      "title": {
+        "rendered": "Contact"
+      },
+      "content": {
+        "rendered": ""
+      },
+      "acf": {
+        "hero_eyebrow": "Neem contact op",
+        "hero_description": "Heb je een vraag, wil je je aanmelden als vrijwilliger of als sponsor? We horen graag van je."
+      }
+    },
+    {
+      "id": 18,
+      "slug": "nieuws",
+      "title": {
+        "rendered": "Nieuws"
+      },
+      "content": {
+        "rendered": ""
+      },
+      "acf": {
+        "hero_eyebrow": "Actueel",
+        "hero_description": "Lees het laatste nieuws van SWG Nederland: verslagen van reizen, updates over materiaal en andere mededelingen."
+      }
+    },
+    {
+      "id": 19,
+      "slug": "algemeenbestuur",
+      "title": {
+        "rendered": "Algemeen bestuur"
+      },
+      "content": {
+        "rendered": ""
+      },
+      "acf": {
+        "hero_eyebrow": "De mensen achter SWG",
+        "hero_description": "Ons bestuur bestaat uit enthousiaste vrijwilligers die zich inzetten om wintersport toegankelijk te maken voor iedereen."
+      }
+    },
+    {
+      "id": 108,
+      "slug": "wachtwoord-vergeten",
+      "title": {
+        "rendered": "Wachtwoord vergeten"
+      },
+      "content": {
+        "rendered": ""
+      },
+      "acf": {
+        "hero_eyebrow": "Mijn SWG",
+        "hero_description": "Vul je e-mailadres in en we sturen je een link om een nieuw wachtwoord in te stellen."
+      }
+    },
+    {
+      "id": 109,
+      "slug": "steunen-bedankt",
+      "title": {
+        "rendered": "Bedankt voor je steun"
+      },
+      "content": {
+        "rendered": ""
+      },
+      "acf": {
+        "thank_you_heading": "Hartelijk bedankt",
+        "thank_you_body": "Met jouw steun maken wij het mogelijk dat mensen met een beperking kunnen genieten van de wintersport. Dank je wel!",
+        "confirmation_note": "Je ontvangt een bevestiging per e-mail.",
+        "mock_notice": "Dit is een simulatie — er is geen echte betaling verwerkt.",
+        "cancelled_heading": "Betaling geannuleerd",
+        "cancelled_body": "Je hebt de betaling geannuleerd. Je kunt het opnieuw proberen.",
+        "failed_heading": "Betaling mislukt",
+        "failed_body": "Er is iets misgegaan bij de betaling. Probeer het opnieuw of neem contact met ons op.",
+        "btn_home": "Terug naar home",
+        "btn_trips": "Bekijk reizen",
+        "btn_retry": "Opnieuw proberen",
+        "btn_contact": "Contact opnemen"
+      }
+    },
+    {
+      "id": 110,
+      "slug": "mijn-account",
+      "title": {
+        "rendered": "Mijn account"
+      },
+      "content": {
+        "rendered": ""
+      },
+      "acf": {
+        "hero_eyebrow": "Mijn SWG",
+        "nav_dashboard": "Overzicht",
+        "nav_registrations": "Mijn inschrijvingen",
+        "nav_questions": "Mijn vragen",
+        "nav_profile": "Mijn profiel",
+        "nav_logout": "Uitloggen"
+      }
+    },
+    {
+      "id": 111,
+      "slug": "reizen",
+      "title": { "rendered": "Reizen" },
+      "content": { "rendered": "" },
+      "acf": {
+        "hero_eyebrow": "Ski met ons mee",
+        "hero_description": "SWG organiseert jaarlijks groepsreizen naar Italië en Oostenrijk. Met aangepast materiaal en deskundige begeleiding voor ieder niveau."
+      }
+    },
+    {
+      "id": 112,
+      "slug": "nieuws",
+      "title": { "rendered": "Nieuws" },
+      "content": { "rendered": "" },
+      "acf": {
+        "hero_eyebrow": "Nieuws",
+        "hero_description": "Blijf op de hoogte van het laatste nieuws van SWG Nederland."
+      }
+    }
+  ],
+  "agenda": [
+    {
+      "id": 1,
+      "slug": "skiweek-italie-2026",
+      "title": "Skiweek Italië 2026",
+      "location": "Passo Tonale, Italië",
+      "date_from": "2026-02-14",
+      "date_to": "2026-02-21",
+      "description": "Een week heerlijk skiën in het zonnige Italië. Passo Tonale biedt uitstekende pistes op alle niveaus en is perfect toegankelijk voor aangepast skimateriaal.",
+      "spots_total": 20,
+      "spots_available": 12,
+      "price": 895,
+      "image": "/images/trips/italie.jpg",
+      "acf": {
+        "program": "<p><strong>Dag 1:</strong> Aankomst en welkomstdiner<br><strong>Dag 2–6:</strong> Skiën op de piste<br><strong>Dag 7:</strong> Vrije dag en afsluiting<br><strong>Dag 8:</strong> Vertrek naar huis</p>",
+        "included": "<ul><li>Busreis heen en terug</li><li>7 nachten halfpension</li><li>Skipas voor 6 dagen</li><li>Gebruik aangepast materiaal</li><li>Begeleiding op de piste</li></ul>",
+        "level": "Alle niveaus",
+        "gallery": [
+          {
+            "src": "/images/trips/italie.jpg",
+            "alt": "Groepsfoto op de piste in Passo Tonale"
+          },
+          {
+            "src": "/images/blog/post1.jpg",
+            "alt": "Sit-skiën op de rode piste"
+          },
+          {
+            "src": "/images/blog/post2.jpg",
+            "alt": "Welkomstdiner in het hotel"
+          },
+          {
+            "src": "/images/blog/post3.jpg",
+            "alt": "Skimateriaal klaarzetten"
+          },
+          {
+            "src": "/images/pages/over-ons-1.jpg",
+            "alt": "Deelnemers en begeleiders op de lift"
+          },
+          {
+            "src": "/images/pages/over-ons-2.jpg",
+            "alt": "Après-ski en gezelligheid"
+          }
+        ],
+        "testimonials": [
+          {
+            "name": "Sandra",
+            "quote": "Een onvergetelijke week! De begeleiding was fantastisch en iedereen — met of zonder beperking — voelde zich meteen thuis op de piste."
+          },
+          {
+            "name": "Marieke",
+            "quote": "Na mijn ongeluk dacht ik nooit meer te kunnen skiën. De sit-ski opende een hele nieuwe wereld voor me. De gidsen gaven me het vertrouwen dat ik nodig had."
+          },
+          {
+            "name": "Nathalie",
+            "quote": "De combinatie van professionele begeleiding en echte gezelligheid is uniek. Je bent gewoon onderdeel van de groep."
+          },
+          {
+            "name": "Ingrid",
+            "quote": "Ik ben blind en had nooit gedacht dat skiën voor mij mogelijk was. Mijn gids was mijn ogen op de piste. Een ervaring die ik nooit zal vergeten."
+          },
+          {
+            "name": "Fatima",
+            "quote": "Alles tot in de puntjes geregeld: vervoer, hotel, pistes, materiaal. Ik hoefde nergens aan te denken en kon gewoon genieten."
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "slug": "skiweek-oostenrijk-2026",
+      "title": "Skiweek Oostenrijk 2026",
+      "location": "Sölden, Oostenrijk",
+      "date_from": "2026-03-07",
+      "date_to": "2026-03-14",
+      "description": "De luxe variant: Sölden in Oostenrijk is een topskigebied met uitstekende voorzieningen en een geweldige après-ski sfeer.",
+      "spots_total": 18,
+      "spots_available": 5,
+      "price": 1195,
+      "image": "/images/trips/oostenrijk.jpg",
+      "acf": {
+        "program": "<p><strong>Dag 1:</strong> Aankomst en welkomstdiner<br><strong>Dag 2–6:</strong> Skiën op de piste<br><strong>Dag 7:</strong> Vrije dag en afsluiting<br><strong>Dag 8:</strong> Vertrek naar huis</p>",
+        "included": "<ul><li>Busreis heen en terug</li><li>7 nachten halfpension</li><li>Skipas voor 6 dagen</li><li>Gebruik aangepast materiaal</li><li>Begeleiding op de piste</li></ul>",
+        "level": "Alle niveaus",
+        "gallery": [
+          {
+            "src": "/images/trips/oostenrijk.jpg",
+            "alt": "Uitzicht over het Ötztal in Sölden"
+          },
+          {
+            "src": "/images/blog/post1.jpg",
+            "alt": "Mono-ski techniek met begeleider"
+          },
+          {
+            "src": "/images/blog/post2.jpg",
+            "alt": "Groepsfoto na de laatste afdaling"
+          },
+          {
+            "src": "/images/blog/post3.jpg",
+            "alt": "Snowboard sessie voor gevorderden"
+          },
+          {
+            "src": "/images/pages/over-ons-1.jpg",
+            "alt": "Aankomst en materiaalcheck"
+          },
+          {
+            "src": "/images/pages/over-ons-2.jpg",
+            "alt": "Gezellige après-ski in Sölden"
+          }
+        ],
+        "testimonials": [
+          {
+            "name": "Peter",
+            "quote": "Ik was sceptisch of ik als rolstoelgebruiker mee kon doen, maar het aangepaste materiaal werkte perfect. Volgend jaar ga ik zeker weer mee!"
+          },
+          {
+            "name": "Rob & Yvonne",
+            "quote": "Onze zoon Thomas was bang voor de sneeuw. Op dag twee stond hij te stralen op zijn ski's. We zijn de vrijwilligers eeuwig dankbaar."
+          },
+          {
+            "name": "Henk",
+            "quote": "Na mijn MS-diagnose leek skiën voorbij. Bij SWG ontdekte ik dat het gewoon doorgaat. Dit was mijn zesde reis al."
+          },
+          {
+            "name": "Jeroen",
+            "quote": "Als begeleider kom ik al tien jaar mee. Het blijft bijzonder hoe elke deelnemer na een week veranderd is. Meer zelfvertrouwen, meer lef, meer lachen."
+          },
+          {
+            "name": "Marco",
+            "quote": "Van aanmelding tot terugkomst verliep alles vlekkeloos. Het materiaal was perfect afgesteld en de après-ski deed de rest!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "slug": "skiweek-italie-2027",
+      "title": "Skiweek Italië 2027",
+      "location": "Passo Tonale, Italië",
+      "date_from": "2027-02-13",
+      "date_to": "2027-02-20",
+      "description": "Weer terug naar het vertrouwde Passo Tonale! Een week skiën op de perfecte pistes van de Adamello-gletsjer, toegankelijk voor alle niveaus en uitgerust met het beste aangepaste materiaal.",
+      "spots_total": 20,
+      "spots_available": 20,
+      "price": 925,
+      "image": "/images/trips/italie.jpg",
+      "acf": {
+        "program": "<p><strong>Dag 1:</strong> Aankomst en welkomstdiner<br><strong>Dag 2–6:</strong> Skiën op de piste<br><strong>Dag 7:</strong> Vrije dag en afsluiting<br><strong>Dag 8:</strong> Vertrek naar huis</p>",
+        "included": "<ul><li>Busreis heen en terug</li><li>7 nachten halfpension</li><li>Skipas voor 6 dagen</li><li>Gebruik aangepast materiaal</li><li>Begeleiding op de piste</li></ul>",
+        "level": "Alle niveaus"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "skiweek-oostenrijk-2027",
+      "title": "Skiweek Oostenrijk 2027",
+      "location": "Ellmau, Oostenrijk",
+      "date_from": "2027-03-06",
+      "date_to": "2027-03-13",
+      "description": "Dit jaar gaan we naar het schilderachtige Ellmau in het SkiWelt-gebied — het grootste aaneengesloten skigebied van Oostenrijk met meer dan 280 km aan pistes.",
+      "spots_total": 18,
+      "spots_available": 17,
+      "price": 1145,
+      "image": "/images/trips/oostenrijk.jpg",
+      "acf": {
+        "program": "<p><strong>Dag 1:</strong> Aankomst en welkomstdiner<br><strong>Dag 2–6:</strong> Skiën op de piste<br><strong>Dag 7:</strong> Vrije dag en afsluiting<br><strong>Dag 8:</strong> Vertrek naar huis</p>",
+        "included": "<ul><li>Busreis heen en terug</li><li>7 nachten halfpension</li><li>Skipas voor 6 dagen</li><li>Gebruik aangepast materiaal</li><li>Begeleiding op de piste</li></ul>",
+        "level": "Alle niveaus"
+      }
+    }
+  ],
+  "board": [
+    {
+      "id": 1,
+      "name": "Mark Boeren",
+      "role": "Voorzitter",
+      "bio": "Mijn naam is Mark Boeren en ik mag al sinds 2002 mee met de SWG. Ik ben getrouwd in het Kaunertal met mijn vrouw Esther en wij zijn de gelukkige ouders van twee stoere mannetjes Pepijn en Tommy.\n\nZelf ben ik helemaal verzot op wintersport en nadat mijn vader (zelf een rolstoelgebruiker) mee was gegaan met een SWG-week, ben ik besmet geraakt met het leuke SWG-virus. De week zit altijd vol met emoties, van extreme lachbuien tot en met emotionele mooie momenten.\n\nSinds 2020 ben ik voorzitter en met een enorm enthousiast team proberen we 2 onvergetelijke weken in de bergen te organiseren.",
+      "photo": "/images/board/mark.jpeg",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "name": "Wendy Ceelen",
+      "role": "Secretariaat",
+      "bio": "Ruim twintig jaar geleden maakte ik mijn eerste reis met de SWG, geïnspireerd door mijn vader Riny die zich jarenlang heeft ingezet voor de stichting. De unieke sfeer en gezelligheid van deze reizen grepen me direct, waardoor ik nu nog steeds jaarlijks meega.\n\nWintersport is voor mij een vakantie om naar uit te kijken. Als actief lid van de SWG streef ik ernaar om deze ervaring toegankelijk te maken voor alle deelnemers en begeleiders. Zelf sta ik al sinds mijn kleuterjaren op de ski's en ga ik meerdere keren per jaar op wintersport.\n\nSamen met mijn partner Harry deel ik deze passie voor wintersport. Bij de SWG ben ik verantwoordelijk voor het secretariaat, wat ik naast mijn reguliere werk met veel plezier en voldoening doe.",
+      "photo": "/images/board/wendy.jpg",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "name": "Martin Passon",
+      "role": "Penningmeester",
+      "bio": "Ik ben Martin Passon en woon in Culemborg met mijn vrouw en 3 pubers: 2 zonen Thomas en Kasper, en dochter Merel.\n\nNa het stoppen bij andere stichtingen hoorde Paul dit en vroeg of ik niet bij de SWG als penningmeester aan de slag wilde. Ik had al veel verhalen gehoord, dus ben er vol goede moed ingestapt. Na enkele gesprekken met Piet is de overname van het stokje begonnen — Piet heeft het perfect achtergelaten.\n\nIn eerste instantie ga ik vooral de administratie voor de stichting verzorgen. De bedoeling is om ook aan te sluiten bij de reizen, maar dat zien we wel als het zover is. Voor nu ben ik dus druk met de voorbereidingen en wellicht tot ziens op één van de reizen!",
+      "photo": "/images/board/martin.jpeg",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "name": "Paul van Grinsven",
+      "role": "Materiaal",
+      "bio": "Mijn naam is Paul van Grinsven, 51 jaar oud. Alweer 11 jaar geleden ging ik voor de eerste keer mee als begeleider naar Italië met een SWG-reis. Ik woon in Boxtel met mijn vrouw Fleur en twee kinderen Jasper en Sanne.\n\nNu alweer 7 jaar in het bestuur, waarvan de laatste 3 jaar als materiaalman voor de reizen. Ik vind techniek en sleutelen erg leuk, maar de gezelligheid en sfeer tijdens de reizen is toch wel waar ik voor gevallen ben vanaf mijn eerste reis.\n\nZelf ski ik vanaf mijn 18e en heb tussendoor ook nog wat jaartjes op een snowboard gestaan. Nu probeer ik ieder jaar met mijn gezin te gaan skiën en dan gaan we meestal richting Scandinavië.",
+      "photo": "/images/board/paul.jpg",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "name": "Angelique Hijweege",
+      "role": "Algemeen bestuurslid",
+      "bio": "Mijn naam is Angelique Hijweege, geboren in 1977 in Vught. Ik woon samen met mijn vriend Menno in De Rips. Ik heb twee zonen en ben sinds juni 2024 trotse oma van een kleindochter Jade.\n\nIk heb het geluk dat mijn voltijd baan een grote hobby van me is. Daarnaast is fotografie ook echt wel een hobby van me, met name portretfotografie — daarmee leg je de persoonlijkheid, emoties en unieke uitstraling van een persoon vast.\n\nVan jongs af aan heb ik een grote passie voor skiën. Toen ik de SWG ontdekte, wist ik meteen: hier wil ik iets in betekenen. Mijn doel is om er mede voor te zorgen dat iedereen, ongeacht fysieke uitdagingen, kan genieten van de prachtige ervaring die skiën biedt.",
+      "photo": "/images/board/angelique.jpeg",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "name": "Bas van Boven",
+      "role": "Algemeen bestuurslid",
+      "bio": "Ik luister naar de naam Bas, sommigen noemen mij ook wel 'die Lange'. Trotse vader van 2 prachtige dochters Marit en Bente, en sinds kort woonachtig in IJzendijke.\n\nMijn passie is wintersport: skiën doe ik sinds ik kan lopen, in het verleden wedstrijden geskied, 6 seizoenen les gegeven bij Hartkaiser Skischule in Ellmau, en vele jaren indoor in Terneuzen. Via mijn werk gecertificeerd Erkend wintersport specialist en Master Skibootfitter.\n\nSWG voelt voor mij als familie, en ik blijf het bijzonder vinden hoe elke keer zo'n grote groep samensmelt met als uitgangspunt plezier beleven aan wintersport. Voor mij is het elk jaar weer herinneringen maken die ik niet snel zal vergeten.",
+      "photo": "/images/board/bas.jpeg",
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "name": "Pim Brouwers",
+      "role": "Algemeen bestuurslid",
+      "bio": "Mijn naam is Pim Brouwers en al jarenlang een fanatiek zitskiër. Mijn eerste stappen in de skisport heb ik bij de SWG gezet — ik ga namelijk al mee vanaf 2001, begonnen in de Bi-Unique en later overgestapt op de monoski.\n\nDe eerste 11 jaar (van 2001 t/m 2012) ben ik met mijn ouders en zussen naar Italië geweest, inmiddels ben ik ook al een aantal jaren mee geweest naar Oostenrijk. Dit alles als deelnemer.\n\nSinds 2022 ga ik mee als begeleider en houd ik me ook bezig met de website en social media van SWG. Als begeleider vind ik het fantastisch om anderen met een handicap te laten zien wat er wel kan en hen te motiveren om net zo te genieten van de skisport zoals ik dat zelf doe.",
+      "photo": "/images/board/pim.jpg",
+      "sort_order": 7
+    }
+  ],
+  "sponsors": [
+    {
+      "id": 1,
+      "name": "DGS Payroll",
+      "logo": "dgs-payroll.png",
+      "tier": "Goud",
+      "url": "",
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "name": "Harpro",
+      "logo": "harpro.png",
+      "tier": "Goud",
+      "url": "",
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "name": "Indicia",
+      "logo": "indicia.png",
+      "tier": "Zilver",
+      "url": "",
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "name": "Intersport Zierikzee",
+      "logo": "intersport-zierikzee.png",
+      "tier": "Zilver",
+      "url": "",
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "name": "Linssen Interieur en Advies",
+      "logo": "linssen-interieur-en-advies.png",
+      "tier": "Zilver",
+      "url": "",
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "name": "Partyservice Nederland",
+      "logo": "partyservice-nederland.png",
+      "tier": "Brons",
+      "url": "",
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "name": "Pathema",
+      "logo": "pathema.png",
+      "tier": "Brons",
+      "url": "",
+      "sort_order": 7
+    },
+    {
+      "id": 8,
+      "name": "Ronde Tafel 28",
+      "logo": "ronde-tafel-28.png",
+      "tier": "Brons",
+      "url": "",
+      "sort_order": 8
+    },
+    {
+      "id": 9,
+      "name": "Schildersbedrijf Helle",
+      "logo": "schildersbedrijf-helle.png",
+      "tier": "Brons",
+      "url": "",
+      "sort_order": 9
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sandra",
+      "quote": "Een onvergetelijke week! De begeleiding was fantastisch en iedereen — met of zonder beperking — voelde zich meteen thuis op de piste.",
+      "trip": "Italië 2025"
+    },
+    {
+      "id": 2,
+      "name": "Peter",
+      "quote": "Ik was sceptisch of ik als rolstoelgebruiker mee kon doen, maar het aangepaste materiaal werkte perfect. Volgend jaar ga ik zeker weer mee!",
+      "trip": "Oostenrijk 2025"
+    },
+    {
+      "id": 3,
+      "name": "Lisa & Tom",
+      "quote": "Als gezin waren we op zoek naar een vakantie die voor onze dochter met een beperking én voor ons als ouders geweldig zou zijn. SWG heeft dat meer dan waargemaakt.",
+      "trip": "Italië 2024"
+    },
+    {
+      "id": 4,
+      "name": "Kees",
+      "quote": "De sfeer in de groep was geweldig. Je skiët op je eigen niveau maar niemand wordt achtergelaten. Dat maakt SWG uniek.",
+      "trip": "Oostenrijk 2024"
+    },
+    {
+      "id": 5,
+      "name": "Marieke",
+      "quote": "Na mijn ongeluk dacht ik nooit meer te kunnen skiën. De sit-ski opende een hele nieuwe wereld voor me. De gidsen gaven me het vertrouwen dat ik nodig had.",
+      "trip": "Italië 2025"
+    },
+    {
+      "id": 6,
+      "name": "Rob & Yvonne",
+      "quote": "Onze zoon Thomas heeft het syndroom van Down en was bang voor de sneeuw. Op dag twee stond hij te stralen op zijn ski's. We zijn de vrijwilligers eeuwig dankbaar.",
+      "trip": "Oostenrijk 2025"
+    },
+    {
+      "id": 7,
+      "name": "Fatima",
+      "quote": "Wat een organisatie. Alles tot in de puntjes geregeld: vervoer, hotel, pistes, materiaal. Ik hoefde nergens aan te denken en kon gewoon genieten.",
+      "trip": "Italië 2024"
+    },
+    {
+      "id": 8,
+      "name": "Henk",
+      "quote": "Al mijn leven ben ik fan van skiën, maar na mijn MS-diagnose leek dat voorbij. Bij SWG ontdekte ik dat het gewoon doorgaat. Dit was mijn zesde reis al.",
+      "trip": "Oostenrijk 2024"
+    },
+    {
+      "id": 9,
+      "name": "Nathalie",
+      "quote": "De combinatie van professionele begeleiding en echte gezelligheid is uniek. Je bent niet 'een deelnemer met een beperking', je bent gewoon onderdeel van de groep.",
+      "trip": "Italië 2025"
+    },
+    {
+      "id": 10,
+      "name": "Jeroen",
+      "quote": "Als begeleider kom ik al tien jaar mee. Het blijft bijzonder hoe elke deelnemer na een week veranderd is. Meer zelfvertrouwen, meer lef, meer lachen.",
+      "trip": "Oostenrijk 2025"
+    },
+    {
+      "id": 11,
+      "name": "Annelies",
+      "quote": "Mijn dochter van 14 heeft spastische paralyse en was de jongste van de groep. Ze werd door iedereen met open armen ontvangen. Ze praat er nog elke dag over.",
+      "trip": "Italië 2024"
+    },
+    {
+      "id": 12,
+      "name": "Marco",
+      "quote": "Van aanmelding tot terugkomst verliep alles vlekkeloos. Het materiaal was perfect afgesteld, de pistes waren uitdagend genoeg, en de après-ski deed de rest!",
+      "trip": "Oostenrijk 2025"
+    },
+    {
+      "id": 13,
+      "name": "Ingrid",
+      "quote": "Ik ben blind en had nooit gedacht dat skiën voor mij mogelijk was. Mijn gids was mijn ogen op de piste. Een ervaring die ik nooit zal vergeten.",
+      "trip": "Italië 2025"
+    },
+    {
+      "id": 14,
+      "name": "Familie De Vries",
+      "quote": "We gaan nu al voor het derde jaar op rij mee. Elk jaar beter georganiseerd, elk jaar nieuwe vriendschappen. SWG is een tweede familie geworden.",
+      "trip": "Oostenrijk 2024"
+    }
+  ],
+  "registrations": [
+    {
+      "trip_slug": "skiweek-oostenrijk-2027",
+      "trip_title": "Skiweek Oostenrijk 2027",
+      "input_1": "Test Gebruiker",
+      "input_2": "test@swg-nederland.nl",
+      "input_3": "0612345678",
+      "input_4": "Zit-ski",
+      "input_5": "nee",
+      "input_6": "",
+      "input_7": "Test",
+      "input_8": "0612345678",
+      "id": 1
+    },
+    {
+      "trip_slug": "skiweek-oostenrijk-2027",
+      "trip_title": "Skiweek Oostenrijk 2027",
+      "input_1": "Test Gebruiker",
+      "input_2": "test@swg-nederland.nl",
+      "input_3": "0612345678",
+      "input_4": "asdf",
+      "input_5": "ja",
+      "input_6": "a",
+      "input_7": "Test",
+      "input_8": "0612345678",
+      "id": 2
+    }
+  ],
+  "waitlist_registrations": [],
+  "contact_submissions": [
+    {
+      "input_1": "test",
+      "input_2": "test@test.nl",
+      "input_3": "",
+      "input_4": "testasfsaf",
+      "id": 1
+    }
+  ],
+  "donation_submissions": [],
+  "auth_tokens": [
+    {
+      "id": 1,
+      "email": "test@swg-nederland.nl",
+      "password": "test1234",
+      "token": "mock-jwt-token-abc123",
+      "user": {
+        "id": 1,
+        "name": "Test Gebruiker",
+        "email": "test@swg-nederland.nl",
+        "phone": "0612345678"
+      }
+    }
+  ],
+  "account_requests": [],
+  "password_resets": [],
+  "mijn_inschrijvingen": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "trip_id": 1,
+      "trip_title": "Skiweek Italië 2026",
+      "date_from": "2026-02-14",
+      "date_to": "2026-02-21",
+      "location": "Passo Tonale, Italië",
+      "status": "confirmed"
+    },
+    {
+      "user_id": 1,
+      "trip_id": 4,
+      "trip_title": "Skiweek Oostenrijk 2027",
+      "date_from": "2027-03-06",
+      "date_to": "2027-03-13",
+      "location": "Ellmau, Oostenrijk",
+      "status": "cancelled",
+      "id": 2
+    },
+    {
+      "user_id": 1,
+      "trip_id": 4,
+      "trip_title": "Skiweek Oostenrijk 2027",
+      "date_from": "2027-03-06",
+      "date_to": "2027-03-13",
+      "location": "Ellmau, Oostenrijk",
+      "status": "cancelled",
+      "id": 3
+    }
+  ],
+  "mijn_vragen": [
+    {
+      "id": 2,
+      "user_id": 1,
+      "question": "Welk materiaal is beschikbaar voor een zit-ski?",
+      "status": "answered",
+      "answer": "Wij beschikken over verschillende modellen zit-ski's. Neem contact op voor specifieke vragen over beschikbaarheid en geschiktheid.",
+      "created_at": "2025-12-01T14:30:00"
+    }
+  ],
+  "mijn_profiel": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "name": "Tinus de Tester",
+      "email": "test@swg-nederland.nl",
+      "phone": "0612345678"
+    }
+  ],
+  "site_options": [
+    {
+      "id": 1,
+      "site_name": "SWG Nederland",
+      "site_tagline": "Skiën voor iedereen",
+      "organization_name": "Stichting Wintersport Gehandicapten Nederland",
+      "contact_email": "info@swg-nederland.nl",
+      "contact_phone": "",
+      "postal_address": "Postbus 1234, 1234 AB Amsterdam",
+      "kvk_number": "12345678",
+      "iban_number": "NL12 ABNA 0123 4567 89",
+      "bic_code": "ABNANL2A",
+      "footer_description": "Stichting Wintersport Gehandicapten Nederland maakt skiën mogelijk voor mensen met een beperking.",
+      "facebook_url": "https://facebook.com/swgnederland",
+      "instagram_url": "https://instagram.com/swgnederland",
+      "nav_labels": {
+        "home": "Home",
+        "trips": "Reizen",
+        "news": "Nieuws",
+        "about": "Over ons",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "support": "Steunen",
+        "board": "Bestuur",
+        "privacy": "Privacy",
+        "cookies": "Cookies",
+        "terms": "Voorwaarden"
+      },
+      "header_labels": {
+        "cta": "Aanmelden →",
+        "login": "Inloggen"
+      },
+      "topbar_labels": {
+        "next_trip_prefix": "Volgende vakantie:",
+        "about": "Over de stichting",
+        "support": "Steun ons",
+        "login": "Inloggen",
+        "my_account": "Mijn account"
+      },
+      "footer_labels": {
+        "privacy": "Privacybeleid",
+        "cookies": "Cookiebeleid",
+        "terms": "Voorwaarden"
+      },
+      "cta_triple": {
+        "heading_fallback": "Doe mee met SWG Nederland",
+        "donor": {
+          "title": "Donateur worden",
+          "description": "Steun SWG met een eenmalige of jaarlijkse donatie.",
+          "button": "Doneer nu →"
+        },
+        "sponsor": {
+          "title": "Sponsor worden",
+          "description": "Verbind uw naam aan een bijzondere stichting.",
+          "button": "Meer info →"
+        },
+        "volunteer": {
+          "title": "Vrijwilliger worden",
+          "description": "Help mee op de piste of achter de schermen.",
+          "button": "Aanmelden →"
+        }
+      }
+    }
+  ]
+}

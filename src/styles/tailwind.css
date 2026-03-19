@@ -1,0 +1,93 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/inter';
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+@theme {
+  --animate-marquee: marquee 50s linear infinite;
+
+  --color-primary-50: #e6edff;
+  --color-primary-100: #ccdaff;
+  --color-primary-200: #99b5ff;
+  --color-primary-300: #668fff;
+  --color-primary-400: #336aff;
+  --color-primary-500: #003dff;
+  --color-primary-600: #0031cc;
+  --color-primary-700: #002599;
+  --color-primary-800: #001866;
+  --color-primary-900: #000c33;
+
+  --color-accent-400: #ff8c5a;
+  --color-accent-500: #ff6b35;
+  --color-accent-600: #e5521c;
+
+  --color-dark: #1d1c2c;
+  --color-dark-secondary: #2d2c3e;
+
+  --color-muted: #6b7280;
+  --color-error: #dc2626;
+  --color-success: #16a34a;
+  --color-warning: #d97706;
+
+  --font-sans: 'Inter Variable', system-ui, sans-serif;
+  --radius-xl: 0.75rem;
+  --radius-2xl: 1rem;
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.pause-marquee:hover,
+.hover\:pause-marquee:hover {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee {
+    animation: none;
+  }
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  :where([data-theme="dark"]) body {
+    background-color: color-mix(in oklch, var(--color-dark), black 15%);
+    color: white;
+  }
+
+  :where([data-theme="dark"]) h1,
+  :where([data-theme="dark"]) h2,
+  :where([data-theme="dark"]) h3,
+  :where([data-theme="dark"]) h4,
+  :where([data-theme="dark"]) h5,
+  :where([data-theme="dark"]) h6,
+  :where([data-theme="dark"]) legend {
+    color: white;
+  }
+
+  #root {
+    min-height: 100svh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  *:focus {
+    outline: none;
+  }
+  *:focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-500;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+}

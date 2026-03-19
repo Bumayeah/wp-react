@@ -1,0 +1,28 @@
+{
+  "name": "SWG Nederland",
+  "short_name": "SWG",
+  "description": "Stichting Wintersport Gehandicapten Nederland — groepsreizen op de piste voor iedereen",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1d1c2c",
+  "theme_color": "#003DFF",
+  "lang": "nl",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
