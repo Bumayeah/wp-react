@@ -8,6 +8,7 @@
     "dev:vite": "vite",
     "dev:mock": "json-server --watch mock-api/db.json --routes mock-api/routes.json --port 3001 --no-cors",
     "build": "tsc -b && vite build",
+    "build:preview": "tsc -b && vite build --mode preview",
     "lint": "eslint .",
     "preview": "vite preview"
   },
